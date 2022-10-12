@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Suraj3002
 - 👀 I’m interested in Software Developement
-- 🌱 I’m currently learning Data Structure and Algorithms and Software Development tools using java
-- 💞️ I’m looking for internship as a Software Developer
+- 🌱 I’m currently 3* star coder on Codechef , My proficiency areas are : Java , Data Structure and Algorithm , React , Javascript , HTML, CSS , SQL. 
+- 💞️ I’m looking for Internship/Full Time Role as a Software Developer
 - 📫 you can mail me at surajgupta6205@gmail.com
 
 <!---
